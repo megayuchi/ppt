@@ -8,8 +8,6 @@ ppt - https://github.com/megayuchi/ppt/blob/main/2015_1118_TechDays2015_dev_uwp_
 ## DirectDraw 프로그래밍 소개
 video - https://www.youtube.com/live/J0MNKUYw1zY?si=VsSVbNQQ3Wv15vNT
 
-ppt - 
-
 
 ## MMOG Server-Side 충돌 및 이동처리 설계와 구현
 video - https://www.youtube.com/live/bCe7g35Ua3I?si=EDKY50nAoG9Pgio4
