@@ -20,7 +20,7 @@ ppt - https://github.com/megayuchi/ppt/blob/main/2014_0614_MMOG%20Server-Side%20
 ## CUDA를 게임 프로젝트에 적용하기
 video - https://www.youtube.com/live/_Lugp-yAFD4?si=jdGhDF93N_zVqlgb
 
-ppt - 
+ppt - https://github.com/megayuchi/ppt/blob/main/2018_0527_CUDA%EB%A5%BC%20%EA%B2%8C%EC%9E%84%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EC%97%90%20%EC%A0%81%EC%9A%A9%ED%95%98%EA%B8%B0.pdf
 
 
 ## C++ Korea 제7회 세미나 - "게임 개발 타임"- 빠른 렌더링을 위한 오브젝트 제외 기술
