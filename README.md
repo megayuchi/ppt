@@ -187,13 +187,11 @@ ppt - https://github.com/megayuchi/ppt/blob/main/2022_0104_%EB%84%A4%ED%8A%B8%EC
 ## DirectStorage프로그래밍 소개
 video - https://www.youtube.com/live/sRmWK7BXq8A?si=_XBugs-F5Pv0biFp
 
-ppt - 
+ppt - https://github.com/megayuchi/ppt/blob/main/2022_0405_DirectStroage%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%EC%86%8C%EA%B0%9C.pdf
 
 
 ## D3D12 - Dynamic Buffer를 사용한 렌더링시 성능 개선
 video - https://www.youtube.com/live/zcO6OAvkHJY?si=5XUM3w5IPw8oaTLM
-
-ppt - https://github.com/megayuchi/ppt/blob/main/2022_0405_DirectStroage%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%EC%86%8C%EA%B0%9C.pdf
 
 
 ## 멀티스레드 S/W Occlusion Culling
