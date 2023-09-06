@@ -23,76 +23,63 @@ video - https://www.youtube.com/live/_Lugp-yAFD4?si=jdGhDF93N_zVqlgb
 ppt - https://github.com/megayuchi/ppt/blob/main/2018_0527_CUDA%EB%A5%BC%20%EA%B2%8C%EC%9E%84%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EC%97%90%20%EC%A0%81%EC%9A%A9%ED%95%98%EA%B8%B0.pdf
 
 
-## C++ Korea 제7회 세미나 - "게임 개발 타임"- 빠른 렌더링을 위한 오브젝트 제외 기술
-video - https://www.youtube.com/live/wnBRg5c5-bk?si=3f5iIbqKyfxoJV_c&t=14233
-
-ppt - 
-
-
 ## DirectX 12 프로그래밍 소개
 video - https://www.youtube.com/live/Z9veGJv7nPE?si=uiLcmN37xcvcobIX
 
-ppt - 
+ppt - https://github.com/megayuchi/ppt/blob/main/2020_0907_DirectX%2012%20%EC%97%94%EC%A7%84%20%EA%B0%9C%EB%B0%9C%20Ver%201.5.pdf
 
 
 ## (socket + C/C++기반의)실시간 게임서버 최적화 전략
 video - https://www.youtube.com/live/LBo_rKN_e-I?si=-JF71kbHUCboo-uN
 
-ppt - 
+ppt - https://github.com/megayuchi/ppt/blob/main/2020_0215_%EC%8B%A4%EC%8B%9C%EA%B0%84%20%EA%B2%8C%EC%9E%84%EC%84%9C%EB%B2%84%20%EC%B5%9C%EC%A0%81%ED%99%94%20%EC%A0%84%EB%9E%B5.pdf
+
+
+## C++ Korea 제7회 세미나 - "게임 개발 타임"- 빠른 렌더링을 위한 오브젝트 제외 기술
+video - https://www.youtube.com/live/wnBRg5c5-bk?si=3f5iIbqKyfxoJV_c&t=14233
+
+ppt - https://github.com/megayuchi/ppt/blob/main/2020_0723_%EB%B9%A0%EB%A5%B8%20%EB%A0%8C%EB%8D%94%EB%A7%81%EC%9D%84%20%EC%9C%84%ED%95%9C%20%EC%98%A4%EB%B8%8C%EC%A0%9D%ED%8A%B8%20%EC%A0%9C%EC%99%B8%20%EA%B8%B0%EC%88%A0.pdf
 
 
 ## XDK없이 XBOX게임 개발하기(UWP + C++/CX + DX11/DX12)
 video - https://www.youtube.com/live/d9RXIWTwpkQ?si=2z0IryAmwODZ9O52
 
-ppt - 
+ppt - https://github.com/megayuchi/ppt/blob/main/2020_1008_xbox_dev_without_xdk.pdf
 
 
 ## DirectX 11 SDK Tutorial코드 설명 - 1
 video - https://www.youtube.com/live/NTvhVxSC_80?si=EZl8gKahuFkLGW2X
 
-ppt - 
-
-
 ## DirectX 11 SDK Tutorial코드 설명 - 2
 video - https://www.youtube.com/live/Oy9qOGviAGY?si=2ElAGxIHKX-qZF8T
-
-ppt - 
-
 
 ## DirectX 11 SDK Tutorial코드 설명 - 3
 video - https://www.youtube.com/live/gu9m1Lqs_sM?si=oF-TMqebvZv-UF77
 
-ppt - 
-
-
 ## DirectX 11 SDK Tutorial코드 설명 - 4
 video - https://www.youtube.com/live/k23Uy954s9I?si=dYf6bLhXKHkigARl
-
-ppt - 
 
 
 ## SIMD프로그래밍 소개 - 1
 video - https://www.youtube.com/live/vMmggKKimOw?si=hXgO5q3mQTeJH28P
 
-ppt - 
+ppt - https://github.com/megayuchi/ppt/blob/main/2021_0213_SIMD%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%20%EC%86%8C%EA%B0%9C.pdf
 
 
 ## SIMD프로그래밍 소개 - 2 - 응용편
 video - https://www.youtube.com/live/jsW6mKzE_gw?si=cRoG1KAGQgKuRvou
 
-ppt - 
-
 
 ## DirectX Raytracing (DXR) 프로그래밍 소개 - 1
 video - https://www.youtube.com/live/ALcVb5b68Zw?si=gshTptg2_8Xj6ffU
 
-ppt - 
+ppt - https://github.com/megayuchi/ppt/blob/main/2021_0302_DirectX%20Raytracing%20(DXR).pdf
 
 
 ## DirectX Raytracing (DXR) 프로그래밍 소개 - 2 실전편
 video - https://www.youtube.com/live/4PerBeSNU4Q?si=vHR32MwYHZcPMLx9
 
-ppt - 
+ppt - https://github.com/megayuchi/ppt/blob/main/2021_0302_DirectX%20Raytracing%20(DXR).pdf
 
 
 ## 나만의 게임 엔진 개발하기
