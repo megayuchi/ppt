@@ -169,19 +169,19 @@ ppt - https://github.com/megayuchi/ppt/blob/main/2021_1012_sqlexpress-localdb%EB
 ## CUDA 프로그래밍 따라하기
 video - https://www.youtube.com/live/gSgZNdT9414?si=jVMdjjEsZL75dK07
 
-ppt - 
+ppt - https://github.com/megayuchi/ppt/blob/main/2021_1026_CUDA%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%20%EB%94%B0%EB%9D%BC%ED%95%98%EA%B8%B0.pdf
 
 
 ## 복셀기반 네트워크 게임에서의 충돌처리 전략
 video - https://www.youtube.com/live/V4I4u01W7QY?si=srD8kQn3kISzkm58
 
-ppt - 
+ppt - https://github.com/megayuchi/ppt/blob/main/2021_1109_%EB%B3%B5%EC%85%80%20%EA%B8%B0%EB%B0%98%20%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC%20%EA%B2%8C%EC%9E%84%20%EC%B6%A9%EB%8F%8C%EC%B2%98%EB%A6%AC%20%EC%A0%84%EB%9E%B5.pdf
 
 
 ## 네트워크 스트리밍을 위한 복셀 데이터 압축
 video - https://www.youtube.com/live/pOMCeUpbecc?si=q52lbRCElQHaUGRi
 
-ppt - 
+ppt - https://github.com/megayuchi/ppt/blob/main/2022_0104_%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC%20%EC%8A%A4%ED%8A%B8%EB%A6%AC%EB%B0%8D%EC%9D%84%20%EC%9C%84%ED%95%9C%20%EB%B3%B5%EC%85%80%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EC%95%95%EC%B6%95.pdf
 
 
 ## DirectStorage프로그래밍 소개
@@ -193,37 +193,35 @@ ppt -
 ## D3D12 - Dynamic Buffer를 사용한 렌더링시 성능 개선
 video - https://www.youtube.com/live/zcO6OAvkHJY?si=5XUM3w5IPw8oaTLM
 
-ppt - 
+ppt - https://github.com/megayuchi/ppt/blob/main/2022_0405_DirectStroage%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%EC%86%8C%EA%B0%9C.pdf
 
 
 ## 멀티스레드 S/W Occlusion Culling
 video - https://www.youtube.com/live/JhqmjL8nSA8?si=C5NT1YhYwF5tqu-g
 
-ppt - 
+ppt - https://github.com/megayuchi/ppt/blob/main/2022_0712_SWOcclusion%20Culling%20%EB%A9%80%ED%8B%B0%EC%8A%A4%EB%A0%88%EB%94%A9.pdf
 
 
 ## Windows + D3D 게임 macOS/iOS + Metal로 포팅하기
 video - https://www.youtube.com/live/YzywKct1yHU?si=oi3sVKEYcnPCnSPO
 
-ppt - 
+ppt - https://github.com/megayuchi/ppt/blob/main/2023_0214_Win-D3D_to_iOS-macOS-Metal.pdf
 
 
 ## D3D Tiled Resources를 이용한 텍스처 스트리밍
 video - https://www.youtube.com/live/VrNZel0Bju4?si=qsVPMhW3AB2HkFaI
 
-ppt - 
+ppt - https://github.com/megayuchi/ppt/blob/main/2023_0613_D3D%20TiledResources%EB%A5%BC%20%EC%9D%B4%EC%9A%A9%ED%95%9C%20%ED%85%8D%EC%8A%A4%EC%B2%98%EC%8A%A4%ED%8A%B8%EB%A6%AC%EB%B0%8D.pdf
 
 
 ## D3D12 샘플 코드 설명 및 D3D12관련 잡담
 video - https://www.youtube.com/live/4tNYu2UtMks?si=cP0DvgtTFvSytkXd
 
-ppt - 
-
 
 ## D3D12 Mesh Shader 소개
 video - https://www.youtube.com/live/5b4IGWL50lQ?si=U5hAT8ghRsWy8sgF
 
-ppt - 
+ppt - https://github.com/megayuchi/ppt/blob/main/2023_0816_D3D12%20Mesh%20Shader%20%EC%86%8C%EA%B0%9C.pdf
 
 
 
