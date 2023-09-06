@@ -22,7 +22,7 @@
 
 - DirectX 12 프로그래밍 소개  
 [[Video]](https://www.youtube.com/live/Z9veGJv7nPE?si=uiLcmN37xcvcobIX)
-[[PPT]](./docs/2020_0907_DirectX%2012%20%EC%97%94%EC%A7%84%20%EA%B0%9C%EB%B0%9C%20)
+[[PPT]](./docs/2020_0907_DirectX%2012%20%EC%97%94%EC%A7%84%20%EA%B0%9C%EB%B0%9C%20Ver%201.5.pdf)
 
 - (Socket + C/C++기반의) 실시간 게임서버 최적화 전략  
 [[Video]](https://www.youtube.com/live/LBo_rKN_e-I?si=-JF71kbHUCboo-uN)
@@ -85,7 +85,7 @@
 [[Video]](https://www.youtube.com/live/8-4KzycX_9o?si=aVsgp32Jx8RaNDFI)
 [[PPT]](./docs/2021_0706_%EB%84%A4%EB%B9%84%EA%B2%8C%EC%9D%B4%EC%85%98%20%EB%A7%A4%EC%8B%9C%EB%A5%BC%20%EC%9D%B4%EC%9A%A9%ED%95%9C%203D%EA%B2%8C%EC%9E%84%20%EA%B8%B8%EC%B0%BE%EA%B8%B0%20%EC%A0%84%EB%9E%B5.pdf)
 
-- 캐릭터 모델 실시간 Voxelization  
+- 캐릭터 모델 실시간 Voxelization   
 [[Video]](https://www.youtube.com/live/diT9qY91MWU?si=kdvAyIKmyuq3OCKs)
 [[PPT]](./docs/2021_0720_%EC%BA%90%EB%A6%AD%ED%84%B0%20%EB%AA%A8%EB%8D%B8%20%EC%8B%A4%EC%8B%9C%EA%B0%84%20Voxelization.pdf)
 
@@ -147,9 +147,27 @@
 - D3D12 샘플 코드 설명 및 D3D12관련 잡담  
 [[Video]](https://www.youtube.com/live/4tNYu2UtMks?si=cP0DvgtTFvSytkXd)
 
-- D3D12 Mesh Shader 소개
+- D3D12 Mesh Shader 소개  
 [[Video]](https://www.youtube.com/live/5b4IGWL50lQ?si=U5hAT8ghRsWy8sgF)
 [[PPT]](./docs/2023_0816_D3D12%20Mesh%20Shader%20%EC%86%8C%EA%B0%9C.pdf)
+
+- Hierarchical Z Map Occlusion Culling  
+[[PPT]](./docs/2012_1122_Hierarchical%20Z%20Map%20Occlusion%20Culling.pdf)
+
+- Windows Holographic API와 C++을 이용한 AR앱 개발  
+[[PPT]](./docs/2017_0218_Windows%20Holographic%20API와%20C%2B%2B을%20이용한%20AR앱%20개발.pdf)
+
+- `shared_ptr` 및 `weak_ptr` 내부 작동방식  
+[[PPT]](./docs/2018_1128_shared_ptr%2C%20weak_ptr작동방식%20내부.pdf)
+
+- SW Occlusion Culling   
+[[PPT]](./docs/2018_0802_SW%20Occlusion%20Culling.pdf)
+
+- Voxel 기반 네트워크 게임 최적화기법  
+[[PPT]](./docs/2018_0804_Voxel기반%20네트워크%20게임%20최적화기법.pdf)
+
+- GPU를 이용한 Voxelization  
+[[PPT]](./docs/2019_0417_Voxelizaition_with_GPU.pdf)
 
 
 
