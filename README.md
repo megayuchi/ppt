@@ -14,7 +14,7 @@ ppt -
 ## MMOG Server-Side 충돌 및 이동처리 설계와 구현
 video - https://www.youtube.com/live/bCe7g35Ua3I?si=EDKY50nAoG9Pgio4
 
-ppt - 
+ppt - https://github.com/megayuchi/ppt/blob/main/2014_0614_MMOG%20Server-Side%20%EC%B6%A9%EB%8F%8C%20%EB%B0%8F%20%EC%9D%B4%EB%8F%99%EC%B2%98%EB%A6%AC.pdf
 
 
 ## CUDA를 게임 프로젝트에 적용하기
