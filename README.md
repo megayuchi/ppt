@@ -2,7 +2,7 @@
 이 저장소는 유튜브 강좌 방송 자료 또는 행사 발표 자료 등 과거 발표 했던 자료들을 정리하고 아카이빙하는 목적으로 개설되었습니다.
 
 ## 작성자
-- [Megayuchi](https://github.com/megayuchi)
+- [megayuchi](https://github.com/megayuchi)
 
 
 ## Graphics - DirectX
