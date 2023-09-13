@@ -39,6 +39,10 @@
 [[Video]](https://www.youtube.com/live/lHlAloRa-HI?si=F6tRInpXOxHGHsBu)
 [[PPT]](./docs/2021_0518_D3D12%20%EB%A6%AC%EC%86%8C%EC%8A%A4%20%EA%B4%80%EB%A6%AC%20%EC%A0%84%EB%9E%B5.pdf)
 
+- D3D12 게임 프로젝트 로딩성능 개선
+[[Video]](https://www.youtube.com/live/R_sMY_jjZnE?si=QMy9Dh2vNfPbfwrz)
+[[ppt]](https://github.com/megayuchi/ppt/blob/main/docs/2023_0913_D3D12%EB%A1%9C%EB%94%A9%EC%8B%9C%EA%B0%84%EC%B5%9C%EC%A0%81%ED%99%94.pdf)
+
 - DirectStorage 프로그래밍 소개  
 [[Video]](https://www.youtube.com/live/sRmWK7BXq8A?si=_XBugs-F5Pv0biFp)
 [[PPT]](./docs/2022_0405_DirectStroage%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%EC%86%8C%EA%B0%9C.pdf)
