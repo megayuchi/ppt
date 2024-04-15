@@ -23,10 +23,9 @@
 [[Video]](https://www.youtube.com/live/Z9veGJv7nPE?si=uiLcmN37xcvcobIX)
 [[PPT]](./docs/2020_0907_DirectX%2012%20%EC%97%94%EC%A7%84%20%EA%B0%9C%EB%B0%9C%20Ver%201.5.pdf)
 
-- D3D12 프로그래밍 소개(Ver.2.0)
+- D3D12 프로그래밍 소개(Ver.2.0)  
 [[Video]](https://www.youtube.com/live/wr8PHg-g4ns?si=SO_LgsWTuTVzvZOd)
-[[PPT]](./docs/2020_0907_DirectX%2012%20%EC%97%94%EC%A7%84%20%EA%B0%9C%EB%B0%9C%20Ver%201.5.pdf)
-
+[[PPT]](./docs/2024_0401_D3D12%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%EC%86%8C%EA%B0%9C.pdf)
 
 - DirectX Raytracing (DXR) 프로그래밍 소개 #1  
 [[Video]](https://www.youtube.com/live/ALcVb5b68Zw?si=gshTptg2_8Xj6ffU)
