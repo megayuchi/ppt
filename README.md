@@ -171,6 +171,9 @@
 [[Video]](https://www.youtube.com/live/wB74q02x_P0?si=EGq87VTfoqbxFzFt)
 [[PPT]](./docs/2021_0928_%EB%A9%94%EB%AA%A8%EB%A6%AC%20%EA%B4%80%EB%A6%AC%20Tip.pdf)
 
+## Debugging
+- 빌드관리및디버깅
+[[PPT]](./docs/2016_1025_빌드관리및디버깅.pdf.pdf)
 
 ## CUDA
 - CUDA 프로그래밍 따라하기  
