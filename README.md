@@ -91,6 +91,9 @@
 [[Video]](https://www.youtube.com/live/diT9qY91MWU?si=kdvAyIKmyuq3OCKs)
 [[PPT]](./docs/2021_0720_%EC%BA%90%EB%A6%AD%ED%84%B0%20%EB%AA%A8%EB%8D%B8%20%EC%8B%A4%EC%8B%9C%EA%B0%84%20Voxelization.pdf)
 
+- LightMap 구현전략
+[[Video]](https://youtube.com/live/gfzTgvEN71g)
+
 ## Windows
 - 프로그래밍 언어의 F1머신 C++을 타고 Windows 10 UWP앱 개발의 세계로~  
 [[Video]](https://youtu.be/cWHSwyLDC80?si=MMYwWNOnC6eJO1TS)
