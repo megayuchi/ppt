@@ -95,6 +95,12 @@
 [[Video]](https://youtube.com/live/gfzTgvEN71g)
 [[PPT]](./docs/2024_0822_LightMap구현.pdf)
 
+- D3D12 GPU Upload Heaps
+[[Video]](https://youtu.be/FiqoYo5S4PI)
+[[PPT]](./docs/2025_0218_D3D12-GPU-Upload-Heaps.pdf)
+
+
+
 ## Windows
 - 프로그래밍 언어의 F1머신 C++을 타고 Windows 10 UWP앱 개발의 세계로~  
 [[Video]](https://youtu.be/cWHSwyLDC80?si=MMYwWNOnC6eJO1TS)
