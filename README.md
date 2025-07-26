@@ -96,8 +96,8 @@
 [[PPT]](./docs/2024_0822_LightMap구현.pdf)
 
 - D3D12 GPU Upload Heaps
-[[Video]](https://youtu.be/FiqoYo5S4PI)
-[[PPT]](./docs/2025_0218_D3D12-GPU-Upload-Heaps.pdf)
+[[Video]](https://youtu.be/CpE4TkaMwO8)
+[[PPT]](./docs/2025_0726_D3D12-GPU-Upload-Heaps_rev1.5.pdf)
 
 
 
