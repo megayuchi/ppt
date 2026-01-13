@@ -181,7 +181,7 @@
 [[Video]](https://www.youtube.com/live/wB74q02x_P0?si=EGq87VTfoqbxFzFt)
 [[PPT]](./docs/2021_0928_%EB%A9%94%EB%AA%A8%EB%A6%AC%20%EA%B4%80%EB%A6%AC%20Tip.pdf)
 
-- AI에게 asm코드 작성을 시켜보았다.
+- AI에게 asm코드 작성을 시켜보았다.  
 [[Video]](https://www.youtube.com/live/piUef4FhWmU?t=548s)
 [[PPT]](./docs/2026_0113_ai%EC%97%90%EA%B2%8Casm%EC%BD%94%EB%93%9C%EC%9E%91%EC%84%B1%EC%8B%9C%ED%82%A4%EA%B8%B0.pdf)  
 
