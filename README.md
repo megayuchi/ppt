@@ -186,8 +186,6 @@
 [[PPT]](./docs/2026_0113_ai%EC%97%90%EA%B2%8Casm%EC%BD%94%EB%93%9C%EC%9E%91%EC%84%B1%EC%8B%9C%ED%82%A4%EA%B8%B0.pdf)  
 
 
-
-https://studio.youtube.com/video/piUef4FhWmU/edit
 ## Debugging
 - 빌드관리및디버깅
 [[PPT]](./docs/2016_1025_빌드관리및디버깅.pdf)
