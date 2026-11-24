@@ -99,6 +99,14 @@
 [[Video]](https://youtu.be/CpE4TkaMwO8)
 [[PPT]](./docs/2025_0726_D3D12-GPU-Upload-Heaps_rev1.5.pdf)
 
+- D3D12 리소스 수명관리
+[[Video]](https://youtu.be/Sew_XGPAVM4)
+[[PPT]](./docs/2026_0809_D3D12 리소스 수명 관리.pdf)
+
+- GPU-Driven Rendering on D3D12
+[[Video]](https://youtu.be/d1-Gisn_Mfc)
+[[PPT]](./docs/2026_1118_GPU-Driven Rendering_D312.pdf)
+
 
 
 ## Windows
