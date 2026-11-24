@@ -67,7 +67,7 @@
 
 - D3D12 리소스 수명관리
 [[Video]](https://youtu.be/Sew_XGPAVM4)
-[[PPT]](./docs/2026_0809_D3D12 리소스 수명 관리.pdf)
+[[PPT]](./docs/2026_0809_D3D12리소스수명관리.pdf)
 
 - GPU-Driven Rendering on D3D12
 [[Video]](https://youtu.be/d1-Gisn_Mfc)
