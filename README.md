@@ -71,7 +71,7 @@
 
 - GPU-Driven Rendering on D3D12
 [[Video]](https://youtu.be/d1-Gisn_Mfc)
-[[PPT]](./docs/2026_1118_GPU-Driven Rendering_D312.pdf)
+[[PPT]](./docs/2026_1118_GPU-DrivenRendering_D312.pdf)
 
 
 ## Graphics - Technology
