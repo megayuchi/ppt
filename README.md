@@ -65,11 +65,11 @@
 [[Video]](https://www.youtube.com/live/5b4IGWL50lQ?si=U5hAT8ghRsWy8sgF)
 [[PPT]](./docs/2023_0816_D3D12%20Mesh%20Shader%20%EC%86%8C%EA%B0%9C.pdf)
 
-- D3D12 리소스 수명관리
+- D3D12 리소스 수명관리  
 [[Video]](https://youtu.be/Sew_XGPAVM4)
 [[PPT]](./docs/2026_0809_D3D12리소스수명관리.pdf)
 
-- GPU-Driven Rendering on D3D12
+- GPU-Driven Rendering on D3D12  
 [[Video]](https://youtu.be/d1-Gisn_Mfc)
 [[PPT]](./docs/2026_1118_GPU-DrivenRendering_D312.pdf)
 
