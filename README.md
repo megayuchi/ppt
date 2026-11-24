@@ -108,6 +108,10 @@
 [[Video]](https://youtube.com/live/gfzTgvEN71g)
 [[PPT]](./docs/2024_0822_LightMap구현.pdf)
 
+- RayTracing을 위한 KD-Tree Traversal  
+[[Video]](https://youtu.be/qMLtknau9Us)
+[[PPT]](./docs/2026_0216_KD-Tree Traversal.pdf)
+
 
 ## Windows
 - 프로그래밍 언어의 F1머신 C++을 타고 Windows 10 UWP앱 개발의 세계로~  
