@@ -110,7 +110,7 @@
 
 - RayTracing을 위한 KD-Tree Traversal  
 [[Video]](https://youtu.be/qMLtknau9Us)
-[[PPT]](./docs/2026_0216_KD-Tree Traversal.pdf)
+[[PPT]](./docs/2026_0216_KD-TreeTraversal.pdf)
 
 
 ## Windows
