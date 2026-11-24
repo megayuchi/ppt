@@ -65,6 +65,10 @@
 [[Video]](https://www.youtube.com/live/5b4IGWL50lQ?si=U5hAT8ghRsWy8sgF)
 [[PPT]](./docs/2023_0816_D3D12%20Mesh%20Shader%20%EC%86%8C%EA%B0%9C.pdf)
 
+- D3D12 GPU Upload Heaps  
+[[Video]](https://youtu.be/CpE4TkaMwO8)
+[[PPT]](./docs/2025_0726_D3D12-GPU-Upload-Heaps_rev1.5.pdf)
+
 - D3D12 리소스 수명관리  
 [[Video]](https://youtu.be/Sew_XGPAVM4)
 [[PPT]](./docs/2026_0809_D3D12리소스수명관리.pdf)
@@ -103,11 +107,6 @@
 - LightMap 구현전략
 [[Video]](https://youtube.com/live/gfzTgvEN71g)
 [[PPT]](./docs/2024_0822_LightMap구현.pdf)
-
-- D3D12 GPU Upload Heaps
-[[Video]](https://youtu.be/CpE4TkaMwO8)
-[[PPT]](./docs/2025_0726_D3D12-GPU-Upload-Heaps_rev1.5.pdf)
-
 
 
 ## Windows
