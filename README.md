@@ -65,6 +65,15 @@
 [[Video]](https://www.youtube.com/live/5b4IGWL50lQ?si=U5hAT8ghRsWy8sgF)
 [[PPT]](./docs/2023_0816_D3D12%20Mesh%20Shader%20%EC%86%8C%EA%B0%9C.pdf)
 
+- D3D12 리소스 수명관리
+[[Video]](https://youtu.be/Sew_XGPAVM4)
+[[PPT]](./docs/2026_0809_D3D12 리소스 수명 관리.pdf)
+
+- GPU-Driven Rendering on D3D12
+[[Video]](https://youtu.be/d1-Gisn_Mfc)
+[[PPT]](./docs/2026_1118_GPU-Driven Rendering_D312.pdf)
+
+
 ## Graphics - Technology
 - C++ Korea 제7회 세미나 - "게임 개발 타임"- 빠른 렌더링을 위한 오브젝트 제외 기술  
 [[Video]](https://www.youtube.com/live/wnBRg5c5-bk?si=3f5iIbqKyfxoJV_c&t=14233)
@@ -98,14 +107,6 @@
 - D3D12 GPU Upload Heaps
 [[Video]](https://youtu.be/CpE4TkaMwO8)
 [[PPT]](./docs/2025_0726_D3D12-GPU-Upload-Heaps_rev1.5.pdf)
-
-- D3D12 리소스 수명관리
-[[Video]](https://youtu.be/Sew_XGPAVM4)
-[[PPT]](./docs/2026_0809_D3D12 리소스 수명 관리.pdf)
-
-- GPU-Driven Rendering on D3D12
-[[Video]](https://youtu.be/d1-Gisn_Mfc)
-[[PPT]](./docs/2026_1118_GPU-Driven Rendering_D312.pdf)
 
 
 
